@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DashZen/static/css/main.76ea2e84.css",
+    "main.js": "/DashZen/static/js/main.4d233221.js",
+    "index.html": "/DashZen/index.html",
+    "main.76ea2e84.css.map": "/DashZen/static/css/main.76ea2e84.css.map",
+    "main.4d233221.js.map": "/DashZen/static/js/main.4d233221.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ea2e84.css",
+    "static/js/main.4d233221.js"
+  ]
+}
